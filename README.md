@@ -37,4 +37,4 @@ We cloned a website called <a href="https://www.timecamp.com/" target="_blank">T
 ![Collaboration](https://user-images.githubusercontent.com/103635403/193588269-cddb1ac3-f853-4839-a947-6c999a1057db.png)
 
 Feel free to contact us
-<a href="mailto:lokesh.cdewanand@gmail.com">Lokesh Choudhary</a> | <a href="mailto:bishalsharmaece@gmail.com">Bishal Sharma</a> | <a href="mailto:rohitmourya0012@gmail.com">Rohit Maurya</a> | <a href="mailto:abhaytalkin@gmail.com">Abhay Agrawal</a> | <a href="mailto:raidivyanka40@gmail.com">Divyanka Rai</a>
+<a href="mailto:lokesh.cdewanand@gmail.com">Lokesh Choudhary</a> | <a href="mailto:bishalsharmaece@gmail.com">Bishal Sharma</a> | <a href="mailto:rohitmourya0012@gmail.com">Rohit Mpurya</a> | <a href="mailto:abhaytalkin@gmail.com">Abhay Agrawal</a> | <a href="mailto:raidivyanka40@gmail.com">Divyanka Rai</a>
